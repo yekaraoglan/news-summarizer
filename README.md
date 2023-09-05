@@ -1,2 +1,2 @@
 # news-summarizer
-Fine-tuning pretrained T5 on CNN-DailyMail News dataset
+Fine-tuning pretrained T5 on news dataset
